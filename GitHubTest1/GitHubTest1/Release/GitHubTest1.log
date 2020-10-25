@@ -1,0 +1,3 @@
+﻿  Source.cpp
+LINK : fatal error C1905: Front end and back end not compatible (must target same processor).
+LINK : fatal error LNK1257: code generation failed
