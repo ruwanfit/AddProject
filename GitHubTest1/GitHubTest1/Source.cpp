@@ -1,11 +1,11 @@
-#include<stdio.h>
+//#include<stdio.h>
 //#include "UnitTest.h"
 #include <iostream>
 
-void main()
+int main()
 {
-	int i = 1;
+	//int i = 1;
 	std::cout << "Hello jenkins...";
-	a
+	return 0;
 	//pldl::UnitTest unitTest;
 }
